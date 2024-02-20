@@ -1,0 +1,82 @@
+/* LoginForm.css */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .login-card {
+    width: 300px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f5f5f5; /* Light gray background */
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  input {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #007bff; /* Blue button */
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  
+  .login_h{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .login-header {
+    text-align: center; /* Center align the text */
+    margin-bottom: 20px; /* Add some margin below the heading */
+    font-family: "PT Sans", sans-serif;
+    font-weight: 400;
+  }
+
+/* LoginForm.css */
+.hint-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+  }
+  
+  .hint-button {
+    background-color: transparent;
+    border: none;
+    color: #e3ecf7;
+    cursor: pointer;
+    background: #007bff;
+  }
+  
+  .hint-content {
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 10px;
+    display: none;
+  }
+  
+  .hint-container:hover .hint-content {
+    display: block;
+
+  }
