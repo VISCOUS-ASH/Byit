@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VISCOUS-ASH/Byit/static/css/main.a0488cfd.css",
+    "main.js": "/VISCOUS-ASH/Byit/static/js/main.182c1f43.js",
+    "index.html": "/VISCOUS-ASH/Byit/index.html",
+    "main.a0488cfd.css.map": "/VISCOUS-ASH/Byit/static/css/main.a0488cfd.css.map",
+    "main.182c1f43.js.map": "/VISCOUS-ASH/Byit/static/js/main.182c1f43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0488cfd.css",
+    "static/js/main.182c1f43.js"
+  ]
+}
